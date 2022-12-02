@@ -1925,3 +1925,6 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.card-columns{
+    column-count: 2;
+}
